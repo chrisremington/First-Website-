@@ -1,0 +1,120 @@
+*{margin:0;
+    padding:0;
+    }
+    
+    nav{height:50px;
+    position:fixed;
+    top:0;
+    z-index:1;
+    background-color:orange;
+    width:100vw;
+    border: 2px solid orange;
+    text-align: center;
+    justify-content:center;
+    overflow:hidden;
+    }
+    
+    nav img{height:50px;
+    width:50px;
+    position:relative;
+    right:360px;
+    text-decoration: none;
+    }
+    
+    nav .li-2{margin:20px;
+        padding:10px;
+       position:relative;
+       bottom:20px;
+    border:4px groove grey ;
+    border-radius:25px;
+    background-color:white;
+    color:black;
+    text-decoration: none;
+    }
+    
+    .li-2:hover{color:white;
+    background-color:black;}
+    
+    main div{background-image: url("https://media.istockphoto.com/id/1145592947/photo/bitcoin.jpg?s=612x612&w=0&k=20&c=od4w9UHTdjOKQ-H-Mq2YfhuDilEAaEBtfXlamCL9LN8="
+    );
+    background-size: cover;
+    background-position: center;
+    box-sizing:border-box;
+    height:800px;
+    background-repeat: no-repeat;
+    position:relative;
+    top:50px;
+    border:2px solid orange;
+    border-left: none;
+    border-right:none;}
+    
+    div h1{color:white;
+    border:2px dotted orange;
+    border-top-right-radius: 50px;;
+    padding:20px;
+    width:500px;
+    font-size:70px;
+    position:relative;
+    top:500px;
+    left:20px;
+    font-family:'Courier New', Courier, monospace;
+    display:block;
+    }
+    
+    main #choose-us{background-color: beige;
+        overflow:scroll;
+        padding-bottom:40px;
+        margin-top:40px;
+        padding-top:90px;
+        text-align: center;
+        
+        
+    }
+    
+    main #choose-us li{
+        font-family: 'Courier New', Courier, monospace;
+        text-align:center;
+        display:inline-block;
+        margin:120px;
+        list-style: none;
+        font-size: 20px;;
+    }
+    
+    ul img{padding-bottom:30px;
+    padding-top:20px;}
+    
+    main #choose-us h1{text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-size:50px;
+    }
+    
+    .li-1{height:80px;
+    width:80px;
+    }
+    
+    button{background-color: white;
+        padding:10px;
+    border-radius: 25px;
+    height:80px;
+    width:130px;
+    font-size:20px;
+    border:4px groove grey;
+    }
+    
+    button:hover{color:white;
+    background-color:black;
+    }
+    
+    button a{text-decoration: none;
+    }
+    
+    footer{padding:20px 5px;
+        margin:0;
+    background-color:blanchedalmond;
+    border:2px solid orange;
+    }
+    
+    footer p{display:inline;
+    margin-right:80px}

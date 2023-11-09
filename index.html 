@@ -1,0 +1,44 @@
+<DOCTYPE html>
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I.M.Simple</title>
+    <link rel="stylesheet" href="styles.css">
+    </head>
+    
+    <body>
+    <section>
+    <header>
+    <nav>
+        <a href=""><img src="https://static.thenounproject.com/png/503061-200.png"></img></a>
+            <a href="blog.html" class="li-2">Home</a>
+            <a href="other.html" class="li-2">Other</a>
+            <a href="blog.html" class="li-2">Pricing</a>
+            <a href="blog.html" class="li-2">Token Creation</a>
+    </nav>
+    </header>
+    
+    
+    <main>
+        <div class="div1">
+        <h1>Investing made Simple</h1>
+    </div>
+   <section id="choose-us">
+    <h1><strong>Why Choose Us?</strong></h1></h1>
+        <ul>
+            <li><img class="li-1" src="https://static.thenounproject.com/png/84921-200.png"><h3>Collect Customer Data</h3></li>
+            <li><img class="li-1" src="https://static.thenounproject.com/png/84930-200.png"><h3>Assigned Personal Blockchain</h3></li>
+            <li><img class="li-1" src="https://static.thenounproject.com/png/84922-200.png"><h3>Token Creation</h3></li>
+        </ul>
+        <a href="learn-more.html"><button>Learn More!</button></a>
+   </section>
+        
+    </main>
+
+    <footer>
+        <p>Founded 2021</p>
+<p>Contact: randomemail@hotmail.com </p>
+    </footer>
+      
+    </body>
+    </html>
